@@ -89,7 +89,7 @@ body {
 .navbar-default .navbar-toggle {
     border-color: #ddd;
   }
-@media (min-width: 576px){
+@media (min-width: 768px){
 .visible-xs {
     display: block!important;
 }
